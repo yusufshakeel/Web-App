@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+div{
+    text-align:center;
+    padding:10px;
+}
+
+.output-container div{
+    width: 150px;
+    font-size:24px;
+    clear:both;
+    display:inline-block;
+}
+
+.output-container p{
+    font-size:18px;
+    padding:5px;
+}
+
+.button-container button{
+    width:50px;
+    height:50px;
+    font-size:25px;
+    padding:5px;
+    background-color:pink;
+    border:none;
+}
+
+.button-container p{
+    padding:5px;
+}
+
+.score-container div{
+    font-size: 16px;
+    padding:15px;
+}
+
+.score-container button{
+    width:80px;
+    height:36px;
+    font-size:15px;
+    background-color:#0077ff;
+    color:#ffffff;
+    border:none;
+}

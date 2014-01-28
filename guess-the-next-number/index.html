@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Guess the next number</title>
+        <script type="text/javascript" src="script.js"></script>
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body onload="reset();">
+        <div class="output-container">
+            <div>AI: <span id="ai-number"></span></div>
+            <div>Your guess: <span id="user-number"></span></div>
+            <p id="msg"></p>
+            <p id="result"></p>
+        </div>
+        <div class="button-container">
+            <p>
+            <button id="btn-1" onclick="user(1);">1</button>
+            <button id="btn-2" onclick="user(2);">2</button>
+            <button id="btn-3" onclick="user(3);">3</button>
+            </p>
+            <p>
+            <button id="btn-4" onclick="user(4);">4</button>
+            <button id="btn-5" onclick="user(5);">5</button>
+            <button id="btn-6" onclick="user(6);">6</button>
+            </p>
+            <p>
+            <button id="btn-7" onclick="user(7);">7</button>
+            <button id="btn-8" onclick="user(8);">8</button>
+            <button id="btn-9" onclick="user(9);">9</button>
+            </p>
+        </div>
+        <div class="score-container">
+            <div>Score: <span id="score"></span></div>
+            <div>Guess remaining: <span id="guess-remaining"></span></div>
+            <button id="reset" onclick="reset();">Reset</button>
+        </div>
+    </body>
+</html>
