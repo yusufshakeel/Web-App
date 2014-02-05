@@ -14,7 +14,7 @@ URL
 [github.com/yusufshakeel] (https://www.github.com/yusufshakeel)
 
 
-### To can watch the videos of this project [click here] (http://www.youtube.com/watch?v=8Rqd-q6lMGo&list=PLG6ePePp5vvbWFx6RsfQnlFp1FkVRZNno).
+### To watch the videos of this project [click here] (http://www.youtube.com/watch?v=8Rqd-q6lMGo&list=PLG6ePePp5vvbWFx6RsfQnlFp1FkVRZNno).
 
 Content
 -------
