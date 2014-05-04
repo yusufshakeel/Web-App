@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dialog Box</title>
+        <style>
+            #white-background{
+                display: none;
+                width: 100%;
+                height: 100%;
+                position: fixed;
+                top: 0px;
+                left: 0px;
+                background-color: #fefefe;
+                opacity: 0.7;
+                z-index: 9999;
+            }
+            
+            #dlgbox{
+                /*initially dialog box is hidden*/
+                display: none;
+                position: fixed;
+                width: 480px;
+                z-index: 9999;
+                border-radius: 10px;
+                background-color: #7c7d7e;
+            }
+            
+            #dlg-header{
+                background-color: #6d84b4;
+                color: white;
+                font-size: 20px;
+                padding: 10px;
+                margin: 10px 10px 0px 10px;
+            }
+            
+            #dlg-body{
+                background-color: white;
+                color: black;
+                font-size: 14px;
+                padding: 10px;
+                margin: 0px 10px 0px 10px;
+                overflow: hidden;
+            }
+            
+            #dlg-img{
+                float: left;
+            }
+            
+            #dlg-link{
+                float: left;
+                margin: 0px 10px;
+            }
+            
+            #dlg-text{
+                padding: 5px;
+                clear: both;
+            }
+            
+            #dlg-link a,
+            #dlg-link h3{
+                padding: 1px;
+                margin: 0px;
+            }
+            
+            #dlg-footer{
+                background-color: #f2f2f2;
+                text-align: right;
+                padding: 10px;
+                margin: 0px 10px 10px 10px;
+            }
+            
+            #dlg-footer button{
+                background-color: #6d84b4;
+                color: white;
+                width: 20%;
+                padding: 5px;
+                border: 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- dialog box -->
+        <div id="white-background">
+        </div>
+        <div id="dlgbox">
+            <div id="dlg-header">
+                Yusuf Shakeel | stay happy and keep smiling :-)
+            </div>
+            <div id="dlg-body">
+                <div id="dlg-img">
+                    <img src="img-64x64.jpg" width="64" height="64">
+                </div>
+                <div id="dlg-link">
+                    <h3>Links</h3>
+                    <a href="https://www.facebook.com/yusufshakeel">facebook.com/yusufshakeel</a><br>
+                    <a href="https://www.youtube.com/yusufshakeel">youtube.com/yusufshakeel</a><br>
+                    <a href="https://plus.google.com/+YusufShakeel">plus.google.com/+YusufShakeel</a><br>
+                    <a href="https://www.github.com/yusufshakeel">github.com/yusufshakeel</a><br>
+                </div>
+                <div id="dlg-text">
+                    <p>Create a custom dialog box like facebook!</p>
+                </div>
+            </div>
+            <div id="dlg-footer">
+                <button onclick="dlgOK()">OK</button>
+            </div>
+        </div>
+        
+        <!-- rest of the page -->
+        <h1>Dialog Box Demo</h1>
+        <p>This is a dialog box example.</p>
+        <p>Feel free to experiment with the code.</p>
+        <p>Click the button below to see the dialog box.</p>
+        <button onclick="showDialog()">Click Me!</button>
+        
+        <!-- script of dialog -->
+        <script>
+            function dlgOK(){
+                var whitebg = document.getElementById("white-background");
+                var dlg = document.getElementById("dlgbox");
+                whitebg.style.display = "none";
+                dlg.style.display = "none";
+            }
+            
+            function showDialog(){
+                var whitebg = document.getElementById("white-background");
+                var dlg = document.getElementById("dlgbox");
+                whitebg.style.display = "block";
+                dlg.style.display = "block";
+                
+                var winWidth = window.innerWidth;
+                var winHeight = window.innerHeight;
+                
+                dlg.style.left = (winWidth/2) - 480/2 + "px";
+                dlg.style.top = "150px";
+            }
+        </script>
+    </body>
+</html>
