@@ -13,6 +13,8 @@ URL
 
 [youtube.com/yusufshakeel] (https://www.youtube.com/yusufshakeel)
 
+[plus.google.com/+YusufShakeel] (https://plus.google.com/+YusufShakeel)
+
 [github.com/yusufshakeel] (https://www.github.com/yusufshakeel)
 
 
