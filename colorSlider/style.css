@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+#color{
+    display: block;
+    clear: both;
+    float: none;
+    width: 256px;
+    height: 256px;
+}
+
+div{
+    display: inline;
+    float: left;
+    padding: 20px;
+}
