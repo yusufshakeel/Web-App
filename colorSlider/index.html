@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ColorSlider</title>
+        <link type="text/css" rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+        <h1>Color Slider Example</h1>
+        <div id="color"></div>
+        <div>
+            <label for="red">RED</label>
+            <input type="range" min="0" max="255" step="1" value="0" id="red" onchange="getRed(this.value);">
+            <p id="redval">0</p>
+        </div>
+        <div>
+            <label for="green">GREEN</label>
+            <input type="range" min="0" max="255" step="1" value="0" id="green" onchange="getGreen(this.value);">
+            <p id="greenval">0</p>
+        </div>
+        <div>
+            <label for="blue">BLUE</label>
+            <input type="range" min="0" max="255" step="1" value="0" id="blue" onchange="getBlue(this.value);">
+            <p id="blueval">0</p>
+        </div>
+        <div>Color HEX: <span id="colorhex">000000</span></div>
+    </body>
+</html>
