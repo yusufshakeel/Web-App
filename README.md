@@ -5,7 +5,7 @@ Web Applications - HTML5 CSS JavaScript
 
 By: Yusuf Shakeel
 
-Date: 21-Oct-2012 Sunday
+Date: 21 October 2012 Sunday
 
 URL
 
