@@ -1,28 +1,30 @@
 #calendar{
-	width: 130px;
-	height: 180px;
-	background-color: cornflowerblue;
-	border-radius: 5%;
+    width: 130px;
+    height: 180px;
+    background-color: cornflowerblue;
+    color: #fff;
+    border-radius: 5%;
+    box-shadow: 0 4px 4px 0 rgba(50, 50, 50, 0.4);
 }
 
 #calendar>p{
-	font-family: Verdana, Arial, sans-serif, serif, monospace;
-	padding: 10px 0;
-	margin: 0;
-	color: #fff;
-	text-align: center;
+    font-family: Verdana, Arial, sans-serif;
+    padding: 10px 0;
+    margin: 0;
+    color: #fff;
+    text-align: center;
 }
 
 #calendar-day{
-	font-size: 16px;
+    font-size: 16px;
 }
 
 #calendar-month-year{
-	font-size: 14px;
+    font-size: 14px;
 }
 
 #calendar-date{
-	font-size: 64px;
-	padding-top: 10px;
-	padding-bottom: 0;
+    font-size: 64px;
+    padding-top: 10px;
+    padding-bottom: 0;
 }
