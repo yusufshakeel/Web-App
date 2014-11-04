@@ -65,4 +65,5 @@ function get_calendar(day_no, days){
         }
         table.appendChild(tr);
     }
+	return table;
 }
