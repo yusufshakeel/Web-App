@@ -51,7 +51,7 @@ function get_calendar(day_no, days){
     table.appendChild(tr);
     
     //rest of the date rows
-    for(var r=3; r<=6; r++){
+    for(var r=3; r<=7; r++){
         tr = document.createElement('tr');
         for(var c=0; c<=6; c++){
             if(count > days){
