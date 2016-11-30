@@ -1,0 +1,55 @@
+/*!
+ * dyClock is a JavaScript library for creating clock.
+ *
+ * Author: Yusuf Shakeel
+ * https://github.com/yusufshakeel
+ *
+ * GitHub Link: https://github.com/yusufshakeel/dyClockJS
+ *
+ * MIT license
+ * Copyright (c) 2016 Yusuf Shakeel
+ *
+ * Date: 2014-01-29 Wednesday
+ */
+
+.dyclock-container {
+    display: inline-block;
+}
+
+.dyclock-digital-time {
+    padding : 5px;
+}
+
+.dyclock-analog-time {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+/*================================== font =============================*/
+
+@font-face {
+    font-family: 'Faster One';
+    src: url(../font/FasterOne-Regular.ttf);
+}
+@font-face {
+    font-family: 'Frijole';
+    src: url(../font/Frijole-Regular.ttf);
+}
+@font-face {
+    font-family: 'Londrina Outline';
+    src: url(../font/LondrinaOutline-Regular.ttf);
+}
+@font-face {
+    font-family: 'Monofett';
+    src: url(../font/Monofett.ttf);
+}
+@font-face {
+    font-family: 'Orbitron';
+    src: url(../font/Orbitron-Regular.ttf);
+}
+@font-face {
+    font-family: 'Vast Shadow';
+    src: url(../font/VastShadow-Regular.ttf);
+}
+
+/*================================== font ends here ===================*/

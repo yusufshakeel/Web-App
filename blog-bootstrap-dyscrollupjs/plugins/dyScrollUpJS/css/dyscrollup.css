@@ -1,0 +1,23 @@
+/*!
+ * dyScrollUpJS is a JavaScript plugin to create a button to scroll back
+ * to the top of the page.
+ *
+ * Author: Yusuf Shakeel
+ * https://github.com/yusufshakeel
+ *
+ * GitHub Link: https://github.com/yusufshakeel/dyScrollUpJS
+ *
+ * MIT license
+ * Copyright (c) 2016 Yusuf Shakeel
+ *
+ * Date: 2015-03-21 Saturday
+ */
+/*! dyScrollUpJS | (c) 2016 Yusuf Shakeel | https://github.com/yusufshakeel/dyScrollUpJS */
+
+#dyscrollup-btn {
+    z-index: 999999;
+    position: fixed;
+    cursor: pointer;
+    display: none;
+    bottom: 32px;
+}
