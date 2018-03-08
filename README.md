@@ -3,43 +3,35 @@ Web-App
 
 Web Applications - HTML5 CSS JavaScript
 
-By: Yusuf Shakeel
+By: VemoTech Incorporation FRANCE -- @a_vrt1
 
-Date: 21 October 2012 Sunday
+# URL
 
-URL
-
-[facebook.com/yusufshakeel] (https://www.facebook.com/yusufshakeel)
-
-[youtube.com/yusufshakeel] (https://www.youtube.com/yusufshakeel)
-
-[plus.google.com/+YusufShakeel] (https://plus.google.com/+YusufShakeel)
-
-[github.com/yusufshakeel] (https://www.github.com/yusufshakeel)
-
-
-### To watch the videos of this project [click here] (https://www.youtube.com/playlist?list=PLG6ePePp5vvbWFx6RsfQnlFp1FkVRZNno).
+WEBSITE : https://www.vemotech.fr
+FACEBOOK : https://www.facebook.com/VemoTechFrance
+INSTAGRAM : https://www.instagram.com/vemotech
+TWITTER : https://www.twitter.com/vemotech
 
 
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Yusuf Shakeel
+Copyright (c) 2018 VemoTech Inc.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+La permission est accordée, sans frais, à toute personne qui obtient une copie de
+ce logiciel et les fichiers de documentation associés (le «Logiciel»), pour traiter
+le Logiciel sans restriction, y compris, sans limitation, les droits de
+utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et / ou vendre des copies de
+le Logiciel, et permettre aux personnes à qui le Logiciel est fourni de le faire,
+sous réserve des conditions suivantes:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+L'avis de copyright ci-dessus et cet avis d'autorisation doivent être inclus dans
+des copies ou des portions substantielles du logiciel.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, DE CONDITIONNEMENT
+POUR UN BUT PARTICULIER ET NON CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU
+LES DÉTENTEURS DE DROITS D'AUTEUR SOIENT RESPONSABLES DE TOUTE RÉCLAMATION, DE TOUT DOMMAGE OU DE TOUTE AUTRE RESPONSABILITÉ, QUE CE SOIT
+DANS UNE ACTION DE CONTRAT, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, OU DE
+CONNEXION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS DANS LE LOGICIEL.
